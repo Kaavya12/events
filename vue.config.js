@@ -1,3 +1,4 @@
 module.exports = {
-    publicPath: "/public/"
+
+    publicPath: '/events/public'
 }

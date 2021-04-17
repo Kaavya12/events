@@ -1,7 +1,8 @@
 {
   "name": "events-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "/events/public",
   "scripts": {
     "serve": "vue-cli-service serve --fix",
     "build": "vue-cli-service build --fix",
